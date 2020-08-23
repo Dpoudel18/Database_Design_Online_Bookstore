@@ -10,7 +10,7 @@ The Book store has registered customers in order to sell books. It also contains
 * Books can be written by only one author and they are stored on many **warehouses** and one warehouse has many books.
 * A customer can have several **shopping baskets**
 
-## Step 1: Creating an Entity-Relationship Model (ER Diagram) of the Bookshop (Conceptual Design) (#conceptual-design)
+## Step 1: Creating an Entity-Relationship Model (ER Diagram) of the Bookshop (Conceptual Design)
 
 ![picture alt](/Images/Bookstore%20ER%20Diagram.png)
 
