@@ -26,14 +26,9 @@ The Book store has registered customers in order to sell books. It also contains
 
 
 * **Which	book is sold more right now?**
-![picture alt](Images/most_sold_book.png)
 * **Which customer is buying more books?**
-![picture alt](Images/customer_more_books.png)
 * **Which	warehouse has Texas Glory in stock?**
-![picture alt](Images/texas_glory_warehouse.png)
 * **Which	author	has more books on sell?**
-![picture alt](Images/author_more_books.png)
 * **Which	publisher offers less books?**
-![picture alt](Images/publisher_less_books.png)
 
 ***This project is done as a part of Coursera's [Relational Database Systems](https://www.coursera.org/learn/relational-database/) course.***
